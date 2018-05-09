@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MLH Hackathon-HackNY-18
 # Twitterazzi
 
@@ -28,3 +29,6 @@ A smartphone app, introducing geolocation tags, potential for an emergency respo
 6. CSS
 7. Python
 8. Jquery
+=======
+# HackNY
+>>>>>>> origin/master
